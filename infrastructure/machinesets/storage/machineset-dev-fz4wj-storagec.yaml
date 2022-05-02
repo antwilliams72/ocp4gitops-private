@@ -6,7 +6,7 @@ metadata:
   labels:
     machine.openshift.io/cluster-api-cluster: dev-fz4wj
 spec:
-  replicas: 1
+  replicas: 0 
   selector:
     matchLabels:
       machine.openshift.io/cluster-api-cluster: dev-fz4wj
