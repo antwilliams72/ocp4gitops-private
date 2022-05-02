@@ -10,7 +10,7 @@ resources:
 #  - clusteroperators.yaml
 #  - ocs-storagecluster.yaml
 #  - ocs-application-helmchart.yaml 
-#  - odf-application.yaml
+  - odf-application.yaml
 #  - odf-application-helmchart.yaml
 #  - oadp-application.yaml
 #  - crunchy-postgres-application.yaml
