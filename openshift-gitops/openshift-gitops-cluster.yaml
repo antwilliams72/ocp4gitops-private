@@ -112,4 +112,10 @@ spec:
         memory: 1Gi
   initialRepositories: >
     - url:
-    https://github.com/tkagn/ocp4gitops-public
+    https://github.com/antwilliams72/ocp4gitops-private
+      passwordSecret:
+        name: repo-creds
+        key:  password
+      usernameSecret:
+        name: repo-creds
+        key: username
