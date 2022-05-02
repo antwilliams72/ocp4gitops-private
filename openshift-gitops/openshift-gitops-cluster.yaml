@@ -111,8 +111,8 @@ spec:
         cpu: 250m
         memory: 1Gi
   initialRepositories: >
-    - url:
-    https://github.com/antwilliams72/ocp4gitops-private
+    - url: https://github.com/antwilliams72/ocp4gitops-private
+      type: git
       passwordSecret:
         name: repo-creds
         key:  password
