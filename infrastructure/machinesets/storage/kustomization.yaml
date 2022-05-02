@@ -4,4 +4,4 @@ kind: Kustomization
 resources:
    - ./machineset-dev-fz4wj-storagea.yaml
    - ./machineset-dev-fz4wj-storageb.yaml
-   - ./machineset-dev-fz4wj-storagebc.yaml
+   - ./machineset-dev-fz4wj-storagec.yaml

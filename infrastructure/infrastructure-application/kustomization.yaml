@@ -6,7 +6,7 @@ commonLabels:
 
 resources:
 #  - oauth-application.yaml
-#  - application-machinesets.yaml
+  - machinesets.yaml
 #  - clusteroperators.yaml
 #  - ocs-storagecluster.yaml
 #  - ocs-application-helmchart.yaml 
